@@ -1,6 +1,5 @@
 
-
-![landlord-bk](README/landlord-bk.png)
+![landlord-bk](https://github.com/user-attachments/assets/4a6f95db-07f4-496d-ae12-c587b50343a2)
 
 
 
@@ -33,10 +32,9 @@
    - 如果使用的编译套件是 MSVC，资源文件直接放到可执行程序`.exe`对应的目录中。
 
 3. 游戏效果图
+![3434](https://github.com/user-attachments/assets/30c14e8c-ac2c-4d46-b056-53eda0ae911f)
+![33333](https://github.com/user-attachments/assets/293c6987-4033-40db-9423-b66f4683948e)
 
-   ![33333](README/33333.png)
-
-   ![](README/3434.png)
 
    
 
@@ -143,15 +141,3 @@
   - 农民：`底分 * 倍数`
 
 `在实现的游戏代码中，没有处理春天的情况（一个玩家牌已出完，另外两个玩家的牌一张未出），如若需要，可自行添加。`
-
-
-
-# 3. 其他
-
-欢迎关注作者：
-
-个人博客：https://subingwen.cn
-
-B站个人主页：https://space.bilibili.com/147020887
-
-微信公众号：ibc_dabing
